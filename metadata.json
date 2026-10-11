@@ -1,0 +1,6 @@
+{
+  "name": "CSC Men Salon - Luxury Men's Grooming in Lahore",
+  "description": "Experience luxury men's hair styling, precision beard grooming, facials, and executive treatments at CSC Men Salon in Lahore, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
